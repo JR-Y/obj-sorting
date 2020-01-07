@@ -1,15 +1,24 @@
 {
-  "name": "obj-sorting",
+  "name": "@jry/obj-sorting",
   "version": "1.0.0",
-  "description": "",
+  "description": "Module for sorting javascript json objects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "John-Robert Yrjölä",
   "license": "ISC",
   "dependencies": {
     "util": "^0.12.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JR-Y/obj-sorting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JR-Y/obj-sorting/issues"
+  },
+  "homepage": "https://github.com/JR-Y/obj-sorting#readme"
 }
