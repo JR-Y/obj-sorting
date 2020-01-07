@@ -1,5 +1,5 @@
 {
-  "name": "@jry/obj-sorting",
+  "name": "obj-sorting",
   "version": "1.0.0",
   "description": "Module for sorting javascript json objects.",
   "main": "index.js",
